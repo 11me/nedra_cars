@@ -1,0 +1,58 @@
+[
+    {
+        "brand": "AvtoVAZ",
+        "model": "Lada Largus",
+        "year": 2012,
+        "fuel": "petrol",
+        "bodyType": "MPV",
+        "price": 5448
+    },
+    {
+        "brand": "Audi",
+        "model": "A3",
+        "year": 2012,
+        "fuel": "diesel",
+        "bodyType": "Hatchback",
+        "price": 13600
+    },
+    {
+        "brand": "Volvo",
+        "model": "C30",
+        "year": 2010,
+        "fuel": "diesel",
+        "bodyType": "Hatchback",
+        "price": 13600
+    },
+    {
+        "brand": "Audi",
+        "model": "e-tron Sportback",
+        "year": 2021,
+        "fuel": "electric",
+        "bodyType": "SUV",
+        "price": 136000
+    },
+    {
+        "brand": "Volvo",
+        "model": "XC90",
+        "year": 2021,
+        "fuel": "hybrid",
+        "bodyType": "SUV",
+        "price": 93826
+    },
+    {
+        "brand": "Porsche",
+        "model": "Carrera 4",
+        "year": 1999,
+        "fuel": "diesel",
+        "bodyType": "Cabrio",
+        "price": 12240
+    },
+    {
+        "brand": "Mitsubishu",
+        "model": "L200",
+        "year": 2012,
+        "fuel": "diesel",
+        "bodyType": "Pickup",
+        "price": 12599
+    }
+]
